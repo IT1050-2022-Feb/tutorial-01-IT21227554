@@ -24,7 +24,7 @@ int main() {
 
 int minimum(int no1, int no2){
 
-// checking the minimum number and return it 
+ // checking the minimum number and return it 
   if( no1 < no2)
     return no1 ;
   else 
@@ -33,7 +33,7 @@ int minimum(int no1, int no2){
 
 int maximum(int no1, int no2){
 
-// checking the maximum number and return it 
+ // checking the maximum number and return it 
   if( no1 > no2)
     return no1 ;
   else 
@@ -42,7 +42,7 @@ int maximum(int no1, int no2){
 
 int multiply(int no1, int no2){
 
-// retrurn multiply of two numbers
+ // retrurn multiply of two numbers
     return no1 * no2 ;
 
 }

@@ -21,7 +21,7 @@ int main() {
   printf("Enter number : ");
   scanf("%d", &number );
 
- // calculate total 
+  // calculate total 
   for( i = 1 ; i <= number ; i++ ){
     total += i ;
   }
