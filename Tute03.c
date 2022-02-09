@@ -17,7 +17,7 @@ int main() {
   // declaring variable
   int i , number , total = 0;
 
-  // taking input from the user 
+ // taking input from the user 
   printf("Enter number : ");
   scanf("%d", &number );
 

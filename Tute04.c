@@ -24,7 +24,7 @@ int main() {
 
 int minimum(int no1, int no2){
 
- // checking the minimum number and return it 
+  // checking the minimum number and return it 
   if( no1 < no2)
     return no1 ;
   else 

@@ -20,7 +20,7 @@ Amount = 30 x 50 + (50-30) x 40 = 2300*/
 
 int main() {
   
-  // declaring variable 
+ // declaring variable 
   int distance ;
   double amount = 0;
  
